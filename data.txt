@@ -1,0 +1,4 @@
+The side first have: length 7.0 and angle 54.0. Second: 2.0 and angle 13.0. And third 8.0 and angle 113.0 Perimetr is: 17.0 Square is: 6.437196594791867
+
+it is no the right tringle. The side first: 3.0 second: 1.0 third:8.0
+
